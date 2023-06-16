@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main. putchar numberz from 0 to 9,
+ * main - prints all single digit numbers of base
  * followed by new line,
  * Return: Always 0 (Success)
  */
