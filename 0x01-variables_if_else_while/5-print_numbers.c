@@ -2,7 +2,6 @@
 /** 
  *main-print from 0 to 10
  *followed by new line
- *
  */
 int main(void)
 {
