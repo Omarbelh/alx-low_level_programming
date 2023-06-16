@@ -1,5 +1,5 @@
 #include <stdio.h>
-/* 
+/** 
  * main. print from 0 to 10
  * followed by new line
  *
@@ -13,5 +13,5 @@ int main(void)
 		printf("%d", n);
 	}
 	printf("\n");
-	return 0;
+	return (0);
 }
