@@ -1,7 +1,7 @@
 #include <stdio.h>
-/** 
- *main-print from 0 to 10
- *followed by new line
+/**
+ * main - print numbers from 0 to 9,
+ * followed by a new line,
  */
 int main(void)
 {
