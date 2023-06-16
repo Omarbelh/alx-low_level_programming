@@ -6,8 +6,8 @@
 /* betty style doc for function main goes there */
 int main(void)
 {
-	int n;
-	int Lastdigit;
+	int n, Lastdigit;
+
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
 	Lastdigit = n % 10;
@@ -21,7 +21,7 @@ int main(void)
 	}
 	else if (Lastdigit < 6)
 	{
-		printf("Last digit of %d is %d and is less than 6 and not 0\n", n, Lastdigit);
+		printf("Last digit of %d is %d and is less than 6 and not 0\n", n,Lastdigit);
 	}
 	return (0);
 }
