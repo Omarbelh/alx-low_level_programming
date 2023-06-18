@@ -1,7 +1,8 @@
 #include <stdio.h>
 /**
- * prints all possible different combinations of two digits
- * start in 01, to 89
+ * main - prints all possible different combinations of two digits,
+ * start in 01, to 89,
+ * following by new line,
  * Return: Always 0 (success)
  */
 int main(void)
