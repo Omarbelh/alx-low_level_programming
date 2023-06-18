@@ -9,13 +9,14 @@ int main(void)
 	int i, j, n;
 	n = '1';
 	i = '0';
-	while(i <= '8')
+
+	while (i <= '8')
 	{
-		for(j = n; j <= '9'; j++)
+		for (j = n; j <= '9'; j++)
 		{
 			putchar(i);
 			putchar(j);
-			if(i == '8' && j == '9')
+			if (i == '8' && j == '9')
 			{
 				putchar('\n');
 			}
