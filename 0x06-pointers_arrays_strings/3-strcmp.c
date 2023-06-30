@@ -1,4 +1,4 @@
-sh: 1: q: not found
+#include "main.h"
 /**
  * _strcmp - compare string values
  * @s1: input value
