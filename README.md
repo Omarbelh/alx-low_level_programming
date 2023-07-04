@@ -1,2 +1,1 @@
-new redme for 0x03 c
-HIDAYA
+Readme for alx
